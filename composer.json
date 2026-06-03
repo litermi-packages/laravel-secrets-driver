@@ -1,5 +1,5 @@
 {
-    "name": "litermi/laravel-secrets-driver",
+    "name": "litermi-packages/laravel-secrets-driver",
     "description": "Easy data retrieval from AWS Secrets Manager API and beyond",
     "type": "library",
     "license": "MIT",
